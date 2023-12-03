@@ -1,0 +1,13 @@
+Accessibility in Web Development: 
+Accessibility in web development refers to designing and coding websites
+in a way that ensures people with disabilities can perceive, understand, navigate, and interact with digital
+content effectively. It involves making web content inclusive and usable for everyone, regardless of their
+abilities.
+
+Importance of Accessible Websites:
+1. Increased website traffic
+2. Reduced risk of legal complications
+3. More customers
+4. Helps develop an innovative business mindset
+5. Improved website SEO
+6.Better user journey leading to more conversions
